@@ -9,6 +9,8 @@ This is the first post I'm publishing  on my website.
 
 ![Welcome][1]
 
+<!--more--><br>
+
 You can see the source code of this website [Here][2]
 
 also, you can see my resume on [About me][3]
