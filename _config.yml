@@ -85,3 +85,4 @@ exclude:
   - CNAME
 
 excerpt_separator: <!--more-->
+theme: jekyll-theme-hacker
